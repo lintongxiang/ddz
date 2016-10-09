@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Config>
+	<ServerConfig>
+		<port>1245</port>
+		<host>127.0.0.1</host>
+	</ServerConfig>
+	<ClientConfig>
+		<host>127.0.0.1</host>
+		<port>1245</port>
+	</ClientConfig>
+	<default-user>
+		<username>q</username>
+		<password>q</password>
+	</default-user>
+</Config>
